@@ -1,0 +1,19 @@
+.name {
+	text-align: center;
+
+}
+
+.testlink {
+	height: 20px;
+	text-align: center;
+}
+
+.testlink a {
+	text-decoration: none;
+	color: black;
+}
+
+.logo {
+	padding: 20px;
+
+}
